@@ -1,4 +1,5 @@
 <div align="center">
+<img width="120" alt="1000194928" src="https://github.com/user-attachments/assets/362051e2-d93b-47d6-a48a-ae98e95bebc2" />
 
 # 苏华仁skill · 道家内丹养生AI
 **将160岁寿星吴云青入室掌门弟子 · 苏华仁道长的完整丹道修真体系注入 AI Agent**
