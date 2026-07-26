@@ -1,8 +1,9 @@
 <div align="center">
 
 # 苏华仁skill · 道家内丹养生AI
-**将道家内丹大家苏华仁的丹道修真体系注入 AI Agent**
-`8卷丹道经典` · `6大核心心智模型` · `7个辨证公式` · `5组功法鉴别` · `12MB原典` · `16万行讲稿`
+**将160岁寿星吴云青入室掌门弟子 · 苏华仁道长的完整丹道修真体系注入 AI Agent**
+`8卷丹道经典（黄帝外经/周易参同契/吕洞宾/陈抟/南宗/道德经/实用养生/吴云青传）` · `6大核心心智模型` · `7个养生辨证公式` · `5组功法鉴别表` · `12MB原典原文` · `16万行讲稿`
+> 基于 tcm-distiller（中医师蒸馏框架）+ 女娲（心智模型蒸馏）+ 达尔文（质量优化）三阶段蒸馏
 [![GitHub Stars](https://img.shields.io/github/stars/jangviktor-web/suhuaren-dandao?style=for-the-badge&color=yellow&label=Stars)](https://github.com/jangviktor-web/suhuaren-dandao/stargazers)
 [![版本](https://img.shields.io/badge/版本-v1.0.0-blue?style=for-the-badge)](https://github.com/jangviktor-web/suhuaren-dandao/releases)
 [![License](https://img.shields.io/badge/协议-MulanPSL--2.0-green?style=for-the-badge)](LICENSE)
